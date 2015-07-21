@@ -1,0 +1,6 @@
+[submodule "cassowary"]
+  path = vendor/cassowary
+  url = git@github.com:starseeker/cassowary.git
+[submodule "SDL-mirror"]
+  path = vendor/SDL
+  url = git@github.com:spurious/SDL-mirror.git
